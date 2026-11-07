@@ -1,0 +1,6 @@
+{
+  "name": "Stacky Snacks",
+  "description": "A colourful, juicy, and addictive casual food-stacking arcade game where players stack cakes, donuts, burgers, and more to build delicious wobbly towers!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
